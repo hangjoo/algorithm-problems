@@ -1,0 +1,49 @@
+{
+    "Baekjoon": [
+        {
+            "problem_id": "2231",
+            "problem_name": "분해합",
+            "solution_path": "./solutions/Baekjoon/2231-분해합.py"
+        },
+        {
+            "problem_id": "1157",
+            "problem_name": "단어 공부",
+            "solution_path": "./solutions/Baekjoon/1157-단어 공부.py"
+        },
+        {
+            "problem_id": "4153",
+            "problem_name": "직각삼각형",
+            "solution_path": "./solutions/Baekjoon/4153-직각삼각형.py"
+        },
+        {
+            "problem_id": "2751",
+            "problem_name": "수 정렬하기 2",
+            "solution_path": "./solutions/Baekjoon/2751-수 정렬하기 2.py"
+        },
+        {
+            "problem_id": "1152",
+            "problem_name": "단어의 개수",
+            "solution_path": "./solutions/Baekjoon/1152-단어의 개수.py"
+        },
+        {
+            "problem_id": "2908",
+            "problem_name": "상수",
+            "solution_path": "./solutions/Baekjoon/2908-상수.py"
+        },
+        {
+            "problem_id": "2292",
+            "problem_name": "벌집",
+            "solution_path": "./solutions/Baekjoon/2292-벌집.py"
+        },
+        {
+            "problem_id": "10890",
+            "problem_name": "알파벳 찾기",
+            "solution_path": "./solutions/Baekjoon/10890-알파벳 찾기.py"
+        },
+        {
+            "problem_id": "15829",
+            "problem_name": "Hashing",
+            "solution_path": "./solutions/Baekjoon/15829-Hashing.py"
+        }
+    ]
+}
