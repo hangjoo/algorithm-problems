@@ -64,6 +64,11 @@
             "problem_id": "7568",
             "problem_name": "덩치",
             "solution_path": "./solutions/Baekjoon/7568-덩치.py"
+        },
+        {
+            "problem_id": "11651",
+            "problem_name": "좌표 정렬하기 2",
+            "solution_path": "./solutions/Baekjoon/11651-좌표 정렬하기 2.py"
         }
     ]
 }
