@@ -86,6 +86,11 @@
             "problem_id": "234",
             "problem_name": "Palindrome Linked List",
             "solution_path": "./solutions/LeetCode/234-Palindrome Linked List.py"
+        },
+        {
+            "problem_id": "383",
+            "problem_name": "Ransom Note",
+            "solution_path": "./solutions/LeetCode/383-Ransom Note.py"
         }
     ]
 }
