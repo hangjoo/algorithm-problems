@@ -79,6 +79,11 @@
             "problem_id": "1929",
             "problem_name": "소수 구하기",
             "solution_path": "./solutions/Baekjoon/1929-소수 구하기.py"
+        },
+        {
+            "problem_id": "1966",
+            "problem_name": "프린터 큐",
+            "solution_path": "./solutions/Baekjoon/1966-프린터 큐.py"
         }
     ],
     "LeetCode": [
