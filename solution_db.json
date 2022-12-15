@@ -81,6 +81,11 @@
             "problem_id": "13",
             "problem_name": "Roman to Integer",
             "solution_path": "./solutions/LeetCode/13-Roman to Integer.py"
+        },
+        {
+            "problem_id": "234",
+            "problem_name": "Palindrome Linked List",
+            "solution_path": "./solutions/LeetCode/234-Palindrome Linked List.py"
         }
     ]
 }
