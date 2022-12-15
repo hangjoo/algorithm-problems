@@ -69,6 +69,11 @@
             "problem_id": "11651",
             "problem_name": "좌표 정렬하기 2",
             "solution_path": "./solutions/Baekjoon/11651-좌표 정렬하기 2.py"
+        },
+        {
+            "problem_id": "4949",
+            "problem_name": "균형잡힌 세상",
+            "solution_path": "./solutions/Baekjoon/4949-균잡힌 세상.py"
         }
     ]
 }
