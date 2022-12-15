@@ -9,12 +9,13 @@ import json
 
 SOLUTION_DIR = "./solutions"
 SOLUTION_RECORD_FILE = "./solution_db.json"
-SOLUTION_TEMPLATE = os.path.join(os.path.dirname(__file__), "solution_template.py")
+SOLUTION_TEMPLATE = os.path.join(os.path.dirname(__file__), "templates", "{platform}.py")
 
 PLATFORM_CLASS = namedtuple("PLATFORM", ("name", "platform_path"))
 
 PLATFORM = {
     "0": PLATFORM_CLASS("Baekjoon", os.path.join(SOLUTION_DIR, "Baekjoon")),
+    "1": PLATFORM_CLASS("LeetCode", os.path.join(SOLUTION_DIR, "LeetCode")),
 }
 
 
@@ -36,7 +37,7 @@ def add_solution():
     problem_id = input(">> Problem ID: ")
     problem_name = input(">> Problem name: ")
     solution_path = os.path.join(selected_platform.platform_path, f"{problem_id}-{problem_name}.py")
-    shutil.copy(SOLUTION_TEMPLATE, solution_path)
+    shutil.copy(SOLUTION_TEMPLATE.format(platform=selected_platform.name), solution_path)
 
     # add to solution record file
     with open(SOLUTION_RECORD_FILE, "r") as f:
@@ -48,5 +49,7 @@ def add_solution():
             "problem_name": problem_name,
             "solution_path": solution_path,
         }
+        if selected_platform.name not in solution_db:
+            solution_db[selected_platform.name] = []
         solution_db[selected_platform.name].append(OrderedDict(info))
         json.dump(solution_db, f, ensure_ascii=False, indent=4)
