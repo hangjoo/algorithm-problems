@@ -75,5 +75,12 @@
             "problem_name": "균형잡힌 세상",
             "solution_path": "./solutions/Baekjoon/4949-균잡힌 세상.py"
         }
+    ],
+    "LeetCode": [
+        {
+            "problem_id": "13",
+            "problem_name": "Roman to Integer",
+            "solution_path": "./solutions/LeetCode/13-Roman to Integer.py"
+        }
     ]
 }
