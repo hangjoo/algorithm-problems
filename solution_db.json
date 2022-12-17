@@ -101,6 +101,11 @@
             "problem_id": "383",
             "problem_name": "Ransom Note",
             "solution_path": "./solutions/LeetCode/383-Ransom Note.py"
+        },
+        {
+            "problem_id": "412",
+            "problem_name": "Fizz Buzz",
+            "solution_path": "./solutions/LeetCode/412-Fizz Buzz.py"
         }
     ]
 }
