@@ -84,6 +84,11 @@
             "problem_id": "1966",
             "problem_name": "프린터 큐",
             "solution_path": "./solutions/Baekjoon/1966-프린터 큐.py"
+        },
+        {
+            "problem_id": "2108",
+            "problem_name": "통계학",
+            "solution_path": "./solutions/Baekjoon/2108-통계학.py"
         }
     ],
     "LeetCode": [
