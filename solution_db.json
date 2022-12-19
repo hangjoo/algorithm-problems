@@ -94,6 +94,11 @@
             "problem_id": "18111",
             "problem_name": "마인크래프트",
             "solution_path": "./solutions/Baekjoon/18111-마인크래프트.py"
+        },
+        {
+            "problem_id": "1874",
+            "problem_name": "스택 수열",
+            "solution_path": "./solutions/Baekjoon/1874-스택 수열.py"
         }
     ],
     "LeetCode": [
