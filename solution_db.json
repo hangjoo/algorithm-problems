@@ -99,6 +99,11 @@
             "problem_id": "1874",
             "problem_name": "스택 수열",
             "solution_path": "./solutions/Baekjoon/1874-스택 수열.py"
+        },
+        {
+            "problem_id": "11723",
+            "problem_name": "집합",
+            "solution_path": "./solutions/Baekjoon/11723-집합.py"
         }
     ],
     "LeetCode": [
