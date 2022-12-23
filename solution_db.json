@@ -131,6 +131,11 @@
             "problem_id": "876",
             "problem_name": "Middle of the Linked List",
             "solution_path": "./solutions/LeetCode/876-Middle of the Linked List.py"
+        },
+        {
+            "problem_id": "1337",
+            "problem_name": "The K Weakest Rows in a Matrix",
+            "solution_path": "./solutions/LeetCode/1337-The K Weakest Rows in a Matrix.py"
         }
     ]
 }
