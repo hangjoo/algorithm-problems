@@ -136,6 +136,11 @@
             "problem_id": "1337",
             "problem_name": "The K Weakest Rows in a Matrix",
             "solution_path": "./solutions/LeetCode/1337-The K Weakest Rows in a Matrix.py"
+        },
+        {
+            "problem_id": "1342",
+            "problem_name": "Number of Steps to Reduce a Number to Zero",
+            "solution_path": "./solutions/LeetCode/1342-Number of Steps to Reduce a Number to Zero.py"
         }
     ]
 }
