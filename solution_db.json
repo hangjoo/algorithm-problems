@@ -141,6 +141,11 @@
             "problem_id": "1342",
             "problem_name": "Number of Steps to Reduce a Number to Zero",
             "solution_path": "./solutions/LeetCode/1342-Number of Steps to Reduce a Number to Zero.py"
+        },
+        {
+            "problem_id": "1672",
+            "problem_name": "Richest Customer Wealth",
+            "solution_path": "./solutions/LeetCode/1672-Richest Customer Wealth.py"
         }
     ]
 }
