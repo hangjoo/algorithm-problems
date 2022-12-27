@@ -104,6 +104,11 @@
             "problem_id": "11723",
             "problem_name": "집합",
             "solution_path": "./solutions/Baekjoon/11723-집합.py"
+        },
+        {
+            "problem_id": "7569",
+            "problem_name": "토마토",
+            "solution_path": "./solutions/Baekjoon/7569-토마토.py"
         }
     ],
     "LeetCode": [
