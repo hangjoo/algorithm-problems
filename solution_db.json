@@ -151,6 +151,11 @@
             "problem_id": "1672",
             "problem_name": "Richest Customer Wealth",
             "solution_path": "./solutions/LeetCode/1672-Richest Customer Wealth.py"
+        },
+        {
+            "problem_id": "1",
+            "problem_name": "Two Sum",
+            "solution_path": "./solutions/LeetCode/1-Two Sum.py"
         }
     ]
 }
