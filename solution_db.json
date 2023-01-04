@@ -114,6 +114,11 @@
             "problem_id": "11724",
             "problem_name": "연결 요소의 개수",
             "solution_path": "./solutions/Baekjoon/11724-연결 요소의 개수.py"
+        },
+        {
+            "problem_id": "2630",
+            "problem_name": "색종이 만들기",
+            "solution_path": "./solutions/Baekjoon/2630-색종이 만들기.py"
         }
     ],
     "LeetCode": [
