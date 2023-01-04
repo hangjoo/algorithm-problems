@@ -109,6 +109,11 @@
             "problem_id": "7569",
             "problem_name": "토마토",
             "solution_path": "./solutions/Baekjoon/7569-토마토.py"
+        },
+        {
+            "problem_id": "11724",
+            "problem_name": "연결 요소의 개수",
+            "solution_path": "./solutions/Baekjoon/11724-연결 요소의 개수.py"
         }
     ],
     "LeetCode": [
