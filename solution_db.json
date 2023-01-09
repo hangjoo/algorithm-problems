@@ -129,6 +129,11 @@
             "problem_id": "1676",
             "problem_name": "팩토리얼 0의 개수",
             "solution_path": "./solutions/Baekjoon/1676-팩토리얼 0의 개수.py"
+        },
+        {
+            "problem_id": "17219",
+            "problem_name": "비밀번호 찾기",
+            "solution_path": "./solutions/Baekjoon/17219-비밀번호 찾기.py"
         }
     ],
     "LeetCode": [
