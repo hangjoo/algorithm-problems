@@ -134,6 +134,11 @@
             "problem_id": "17219",
             "problem_name": "비밀번호 찾기",
             "solution_path": "./solutions/Baekjoon/17219-비밀번호 찾기.py"
+        },
+        {
+            "problem_id": "9375",
+            "problem_name": "패션왕 신해빈",
+            "solution_path": "./solutions/Baekjoon/9375-패션왕 신해빈.py"
         }
     ],
     "LeetCode": [
