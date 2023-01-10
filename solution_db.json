@@ -139,6 +139,11 @@
             "problem_id": "9375",
             "problem_name": "패션왕 신해빈",
             "solution_path": "./solutions/Baekjoon/9375-패션왕 신해빈.py"
+        },
+        {
+            "problem_id": "11659",
+            "problem_name": "구간 합 구하기 4",
+            "solution_path": "./solutions/Baekjoon/11659-구간 합 구하기 4.py"
         }
     ],
     "LeetCode": [
